@@ -6,7 +6,7 @@
 
 **Syllabus focus:** `GROUP BY`, `SUM`, and date analysis
 
-Runnable script: `case-study-169.sql` (verified with SQLite).
+Runnable script: `case-study-169-postgres.sql`, loaded in PostgreSQL database `case_study_169`.
 
 ---
 
